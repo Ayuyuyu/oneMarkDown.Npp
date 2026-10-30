@@ -1,0 +1,7 @@
+build/
+bin/
+.vs/
+*.user
+
+# WebView2 SDK is downloaded by CMake at configure time (see CMakeLists.txt).
+third_party/webview2/
